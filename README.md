@@ -1,9 +1,6 @@
 # Joseph Williams
 
-I'm a current Computer Science student at Auburn University, getting a minor in Statistics focusing on data science, and I expect to graduate in Fall 2025.
-<br />
-
-I'm working on expanding my skills in software engineering, data science, and AI/ML.
+I'm a current Computer Science student at Auburn University, getting a minor in Statistics. I'm constantly working on expanding my skills in software engineering, data science, and AI/ML.
 <br />
 
 I've shared as many of my academic and personal projects as possible, and I’m always adding more as I continue developing my skillset through academic coursework and personal initiatives.
